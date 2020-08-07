@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/consul-consumer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/consul-producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/consul-springboot/consul-consumer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/consul-springboot/consul-producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/consul.producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
